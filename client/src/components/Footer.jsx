@@ -61,9 +61,9 @@ export default function FooterCom() {
           />
           <div className="flex gap-6 sm:mt-0 mt-4 sm:justify-center">
             <Footer.Icon href='#' icon={BsFacebook}/>
-            <Footer.Icon href='#' icon={BsInstagram}/>
-            <Footer.Icon href='#' icon={BsTwitter}/>
-            <Footer.Icon href='https://github.com/rushipatil44' icon={BsGithub}/>
+            <Footer.Icon href='https://www.instagram.com/patil_rushi_44/' target='_blank' icon={BsInstagram}/>
+            <Footer.Icon href='https://twitter.com/R_H_Patil' target='_blank' icon={BsTwitter}/>
+            <Footer.Icon href='https://github.com/rushipatil44' target='_blank' icon={BsGithub}/>
             <Footer.Icon href='#' icon={BsDribbble}/>
 
           </div>
